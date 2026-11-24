@@ -1,0 +1,138 @@
+{
+ "bareme": {
+  "juste": 1,
+  "faux": -0.5,
+  "blanc": 0
+ },
+ "bareme_note": "Le barème officiel du QCM n'est pas publié : une réponse fausse est « sanctionnée de façon négative », une absence de réponse vaut zéro.",
+ "minutesQcm": 50,
+ "coefs": {
+  "e1": 4,
+  "e2": 2,
+  "oral": 6,
+  "elim": 5
+ },
+ "chapitres": {
+  "front": "Diagnostic",
+  "1": "Le concours",
+  "2": "Le métier",
+  "4": "Avis argumenté",
+  "6": "Écrire juste",
+  "7": "Thèmes d'actualité",
+  "11": "Connaissances générales",
+  "12": "Français",
+  "13": "Mathématiques",
+  "14": "Raisonnement logique",
+  "15": "QCM blancs",
+  "16": "Choisir son option",
+  "17": "Option SES",
+  "18": "Option comptabilité",
+  "19": "Option droit",
+  "20": "Option histoire-géographie-géopolitique",
+  "21": "Option mathématiques",
+  "23": "Oral : questions du jury",
+  "24": "Oral : mises en situation",
+  "25": "Concours blanc n° 1",
+  "26": "Concours blanc n° 2",
+  "annexes": "Glossaire"
+ },
+ "phases": {
+  "e1": [
+   {
+    "min": 15,
+    "label": "Lire les questions, repérer la commande de chacune"
+   },
+   {
+    "min": 45,
+    "label": "Lire et trier les documents (tableau de tri)"
+   },
+   {
+    "min": 20,
+    "label": "Plans détaillés au brouillon"
+   },
+   {
+    "min": 85,
+    "label": "Rédaction au propre"
+   },
+   {
+    "min": 15,
+    "label": "Relecture : orthographe, accords, numérotation"
+   }
+  ],
+  "e2": [
+   {
+    "min": 50,
+    "label": "QCM : d'abord les questions sûres, puis les doutes"
+   },
+   {
+    "min": 60,
+    "label": "QRC : plan rapide puis rédaction"
+   },
+   {
+    "min": 10,
+    "label": "Relecture et report sur la feuille de réponse"
+   }
+  ],
+  "oral": [
+   {
+    "min": 0.5,
+    "label": "Se présenter, annoncer le fil"
+   },
+   {
+    "min": 2,
+    "label": "Parcours : formation et expériences"
+   },
+   {
+    "min": 1.5,
+    "label": "Compétences et qualités, avec des faits"
+   },
+   {
+    "min": 0.75,
+    "label": "Motivation pour la DGFiP"
+   },
+   {
+    "min": 0.25,
+    "label": "Conclure"
+   }
+  ]
+ },
+ "maj": [
+  {
+   "date": "novembre 2026",
+   "titre": "Calendrier de la session 2027",
+   "texte": "Écrits le 11 janvier 2027, résultats d'admissibilité le 5 février, oraux du 15 au 19 mars, résultats d'admission le 26 mars 2027. Session 2028 : inscriptions du 15 octobre au 16 novembre 2027, écrits le 10 janvier 2028."
+  }
+ ],
+ "liens": [
+  {
+   "titre": "Devenez contrôleur des Finances publiques (site officiel)",
+   "url": "https://rejoindrelesfinancespubliques.economie.gouv.fr/rejoindre-les-finances-publiquesdes-concours-pour-tous-les-niveaux-detudes/devenez-controleur-des",
+   "texte": "Calendrier, épreuves, programme, annales et rapports du jury."
+  },
+  {
+   "titre": "Contrôleur des Finances publiques de 2e classe externe (economie.gouv.fr)",
+   "url": "https://www.economie.gouv.fr/rejoignez-nous/controleur-des-finances-publiques-de-2eme-classe-externe-dgfip",
+   "texte": "Présentation du concours, statistiques, résultats."
+  },
+  {
+   "titre": "Rapport du jury 2026 (concours externe)",
+   "url": "https://www.economie.gouv.fr/files/files/directions_services/rejoignez-nous/DGFiP/recrutement-par-concours/categorie-B_bac/controleur-finances-publiques/2026_08_contr_ext_rapp_jury.pdf",
+   "texte": "Ce que le jury a relevé dans les copies et à l'oral en 2026."
+  },
+  {
+   "titre": "Rapport du jury 2025 (ancien format)",
+   "url": "https://www.economie.gouv.fr/files/files/directions_services/rejoignez-nous/DGFiP/recrutement-par-concours/categorie-B_bac/controleur-finances-publiques/2025_11_contr-ext_metro_rapport_jury.pdf",
+   "texte": "Concerne l'ancien concours, utile pour l'oral et les QCM."
+  },
+  {
+   "titre": "Sujet 2026, épreuve n° 1 (analyse de dossier)",
+   "url": "https://rejoindrelesfinancespubliques.economie.gouv.fr/files/files/concours/Annales/2026_B_ADM_Epreuve01_AD.pdf",
+   "texte": "Le dossier « sécurité routière », 7 documents."
+  },
+  {
+   "titre": "Sujets 2026, épreuve n° 2 (QCM et QRC, par option)",
+   "url": "https://rejoindrelesfinancespubliques.economie.gouv.fr/files/files/concours/Annales/2026_B_ADM_Epreuve02_QCM-QRC_Droit.pdf",
+   "texte": "Le QCM est commun à toutes les options ; remplacez « Droit » par Compta, HGGP, Maths ou SES dans l'adresse pour les autres options."
+  }
+ ]
+}
